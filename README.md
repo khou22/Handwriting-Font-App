@@ -1,5 +1,5 @@
 # Handwriting-Font-App
-Status: Not active.
+Development Status: Not active.
 <br>
 Allows the user to input their handwriting and then type in their own handwriting. Their document can be exported as a vector file to create a physical copy on either a printer, laser cutter, or watercolor bot.
 <br>
